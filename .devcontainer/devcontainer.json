@@ -1,0 +1,25 @@
+{
+    "name": "Java Notes",
+    "image": "mcr.microsoft.com/devcontainers/java:21",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vscjava.vscode-java-pack",
+                "GitHub.copilot",
+                "GitHub.copilot-chat"
+            ],
+            "settings": {
+                "editor.formatOnSave": true,
+                "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+                "java.debug.settings.console": "internalConsole",
+                "workbench.editorAssociations": {
+                    "*.md": "vscode.markdown.preview.editor"
+                },
+                "explorer.excludeGitIgnore": true,
+                "files.exclude": {
+                    "**/.gitignore": true
+                }
+            }
+        }
+    }
+}
