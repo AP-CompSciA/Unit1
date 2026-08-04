@@ -18,7 +18,10 @@
                 "explorer.excludeGitIgnore": true,
                 "files.exclude": {
                     "**/.gitignore": true
-                }
+                },
+                "java.project.referencedLibraries": [
+                    ".devcontainer/Peek.jar"
+                ]
             }
         }
     }
