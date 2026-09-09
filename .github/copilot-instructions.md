@@ -33,8 +33,13 @@ Requirements:
 - Never introduce concepts, syntax, libraries, or AP CSA material outside those topics.
 - Create enough work for the student to complete over the course of the current APCSA unit.
 - Generate approximately:
-  - 20–40 programming exercises of varying difficulty, or
+  - up to 20 programming exercises of varying difficulty, or
   - an equivalent amount of practice if a different mix of question types is more appropriate.
+    - Choose the number of exercises based on the exercise and subject difficulty. 
+    - The number of exercises generated should be enough to adequately practice the concepts from the unit. 
+    - It can be less than 20 exercises. 
+    - It should be enough homework for a high school student to complete in about two weeks withtout feeling repetative or tedious. 
+    - If the content is basic and there aren't so many concepts covered, generate fewer exercises.
 - Include a balanced mix of:
   - Short coding exercises
   - Code reading and prediction
